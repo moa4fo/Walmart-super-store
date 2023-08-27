@@ -44,7 +44,6 @@ By completing this project, you will gain hands-on experience with data extracti
 
 # Project Evaluation metrics:
 1) You are supposed to get the data of walmart superstore sale
-https://drive.google.com/file/d/1qPwx6ye6_2BRGR0pUrgEX8wm7grd-LJm/view?usp=share_link
 2) Predict the Profit of Walmart using the power analysis and also represent the data in hierarchial as well as the area in series of data points.
 3) Describe and visualize the principle that 80 percent of the sales come from 20 percent of the customers and also create a visual that would breakdown measures into underlying factors and analyse the sales using the metrics in the data.
 4) Make a presentation using the dashboards of sale analysis:
