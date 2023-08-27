@@ -49,10 +49,10 @@ By completing this project, you will gain hands-on experience with data extracti
 ## 2) Predict the Profit of Walmart using the power analysis and also represent the data in hierarchial as well as the area in series of data points.
 ## 3) Describe and visualize the principle that 80 percent of the sales come from 20 percent of the customers and also create a visual that would breakdown measures into underlying factors and analyse the sales using the metrics in the data.
 ## 4) Make a presentation using the dashboards of sale analysis:
-    - Sales and Revenue: You can track the store's sales and revenue over time, by category, region, and product.
-    - Inventory Management: You can monitor the store's inventory levels and turnover rates to optimize stock levels and ensure adequate supply of popular products.
-    - Customer Insights: You can analyze customer data, such as demographics, purchase history, and customer feedback, to gain insights into their behavior and preferences.
-    - Store Performance: You can measure store performance metrics, such as sales per square foot, customer traffic, and employee productivity, to identify areas of improvement and optimize store operations.
+- Sales and Revenue: You can track the store's sales and revenue over time, by category, region, and product.
+- Inventory Management: You can monitor the store's inventory levels and turnover rates to optimize stock levels and ensure adequate supply of popular products.
+- Customer Insights: You can analyze customer data, such as demographics, purchase history, and customer feedback, to gain insights into their behavior and preferences.
+- Store Performance: You can measure store performance metrics, such as sales per square foot, customer traffic, and employee productivity, to identify areas of improvement and optimize store operations.
 ## 5) Design and upload the report in power bi service and kindly attach the report link.
 ## 6) Perform root cause analysis and also make inferences in a report format.
 
