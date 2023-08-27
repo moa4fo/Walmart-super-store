@@ -12,7 +12,8 @@ The Walmart Superstore wants to analyze its sales data to gain insights into its
 
 
 # Approach:
-Connect to the Walmart sales data source: The first step is to connect to the Walmart sales data source. Power BI can connect to various data sources, including Excel spreadsheets, SQL Server databases, and other cloud-based platforms. You can use Power BI's Walmart connector to connect to the Walmart sales data source.
+# Connect to the Walmart sales data source:
+The first step is to connect to the Walmart sales data source. Power BI can connect to various data sources, including Excel spreadsheets, SQL Server databases, and other cloud-based platforms. You can use Power BI's Walmart connector to connect to the Walmart sales data source.
 # Import data:
 Once connected, import the data into Power BI. You can choose to import the entire dataset or select specific tables and columns that you want to analyze.
 # Data modeling:
